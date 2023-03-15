@@ -1,0 +1,9 @@
+.link {
+    text-decoration: none;
+    color: var(--cor-branco);
+    margin-left: 1.5em;
+}
+
+.link:hover {
+    border-bottom: solid #000 1px;
+}
